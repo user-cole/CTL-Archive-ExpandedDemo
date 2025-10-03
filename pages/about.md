@@ -11,7 +11,7 @@ position: bottom
 # major heading to display over featured image
 heading: About the Collection
 # paragraph text below heading in featured image
-sub-heading: 
+sub-heading: this is a test
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
 padding: 6em
 # Edit the markdown on in this file to describe your collection
